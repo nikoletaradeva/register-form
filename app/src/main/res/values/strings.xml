@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SingUpLoginForm</string>
+    <string name="name">ViralAndroid.com</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign">Sing up</string>
+    <string name="facebook">Sing in with facebook</string>
+    <string name="twitter">Sing in with twitter</string>
+    <string name="google">Sing in with google +</string>
+
+
+</resources>
